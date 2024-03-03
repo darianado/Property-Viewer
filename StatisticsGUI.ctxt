@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StatisticsGUI
+comment0.text=\r\n\ StatisticsGUI\ provides\ the\ GUI\ for\ the\ statistics\ function\ of\ the\ project.\ \r\n\ It\ displays\ the\ statistics\ and\ strings\ with\ the\ data\r\n\r\n\ @author\ Michael\ K\u00F6lling,\ David\ J\ Barnes,\ and\ Josh\ Murphy,\ Dariana\ Dorin\r\n\ @version\ 1.0\r\n
+comment1.params=viewer
+comment1.target=StatisticsGUI(PropertyViewer)
+comment1.text=\r\n\ Take\ the\ PropertyViewer\ data\ and\ display\ its\ statistics\ GUI\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ showStatistics()
+comment2.text=\r\n\ Display\ the\ statistics\r\n
+comment3.params=x
+comment3.target=java.lang.String\ convertToString(int)
+comment3.text=\r\n\ \ Convert\ an\ int\ to\ String\ format\r\n
+comment4.params=
+comment4.target=void\ makeFrame()
+comment4.text=\r\n\ Create\ the\ Swing\ frame\ and\ its\ content.\r\n
+numComments=5
